@@ -2219,7 +2219,7 @@
   resolved "https://registry.yarnpkg.com/@tonic-ui/react-hooks/-/react-hooks-1.5.3.tgz#e9dbeafa6f9dcece8def052b66549d2595297b7b"
   integrity sha512-phrsrLlUP5qte0OdJ8caPyi+5o1AfagqK4zwZQhRKOOKrwBPniiPh7p0zfjJOxywvgQ9ZMmnvm6tG5mcpKkcrw==
 
-"@tonic-ui/react@^1.21.0":
+"@tonic-ui/react@^1.23.0":
   version "1.24.0"
   resolved "https://registry.yarnpkg.com/@tonic-ui/react/-/react-1.24.0.tgz#506a9acca860864e588d0999b9bcc1e6d1a925d9"
   integrity sha512-mA808BYD+FtKC8P2z+kcAg+KqAeKkD+mQokJNjuuImZ+azgmhr2cBkL89/ovpGyh0ltA6EHYcGJNGJZUT4PA6Q==
