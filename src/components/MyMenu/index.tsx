@@ -9,7 +9,7 @@ import {
   Flex,
 } from '@tonic-ui/react';
 import { useToggle } from '@tonic-ui/react-hooks';
-import { TMenuItem } from '../model';
+import { TMenuItem } from '../../model';
 const MyMenu: React.FC<{ menuItems: TMenuItem[] }> = ({ menuItems }) => {
   const [isOpen, toggleIsOpen] = useToggle(false);
   const onClose = () => toggleIsOpen(false);
